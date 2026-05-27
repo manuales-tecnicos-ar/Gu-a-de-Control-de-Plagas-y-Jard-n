@@ -1,0 +1,6 @@
+{
+  "name": "Guía de Control de Plagas y Jardín",
+  "description": "Guía interactiva y asesor de productos para combatir hormigas podadoras, cucarachas, malezas y elegir el pulverizador ideal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
